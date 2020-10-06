@@ -26,5 +26,5 @@ img{
 .visible {
     transform: translateX(0);
     opacity: 1;
-    transition: all 1s;
+    transition: all 1s
 }
